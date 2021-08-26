@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(221, 221, 221);
+}
+ nav{
+     margin-right: 0;
+          
+ }
+
+ nav a{
+     list-style-type: none;
+     text-decoration: none;
+     color: #000;
+     border-right: 1.5px solid gray;
+     margin: 2px;
+     padding: 2px;
+
+ }
