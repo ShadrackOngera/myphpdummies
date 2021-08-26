@@ -1,5 +1,6 @@
 *{
     background-color: rgb(221, 221, 221);
+    position: absolute;
 }
  nav{
      margin-right: 0;
@@ -14,4 +15,11 @@
      margin: 2px;
      padding: 2px;
 
+ }
+
+ section{
+     text-align: center;
+     align-items: center;
+     align-content: center;
+     line-height: 2;
  }
